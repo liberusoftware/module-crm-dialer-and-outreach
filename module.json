@@ -2,7 +2,7 @@
   "name": "crm-dialer-and-outreach",
   "display_name": "CRM Dialer and Outreach",
   "description": "Dialing lists, scripts, outcomes and compliance controls",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "category": "capability",
   "provider": "Liberu\\CRM\\DialerAndOutreach\\DialerAndOutreachServiceProvider",
   "requires": {
